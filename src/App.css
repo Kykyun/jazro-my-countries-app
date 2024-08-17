@@ -1,0 +1,26 @@
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+.sidebar {
+  width: 200px;
+  float: left;
+}
+
+.country-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.favorite-btn {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 5px 10px;
+}
+
+.favorite-btn.favorite {
+  background-color: #fdd;
+}
