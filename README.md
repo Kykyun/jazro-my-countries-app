@@ -16,7 +16,6 @@
 
 - Displays a list of countries with their name, region, capital, and flag.
 - Search functionality to filter countries by name or capital.
-- can add favourite
+- Add favourite countries 
 - Add/delete favorite country 
 
-# jazro-my-countries-app
