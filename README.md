@@ -9,10 +9,14 @@
 
 5. Start the application using `npm run dev`.
 
+## Error while Install
+1. make sure (npm and node) already updated
+
 ## Features
 
 - Displays a list of countries with their name, region, capital, and flag.
 - Search functionality to filter countries by name or capital.
+- can add favourite
 - Add/delete favorite country 
 
 # jazro-my-countries-app
