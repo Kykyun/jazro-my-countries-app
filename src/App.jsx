@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import CountryList from './components/CountryList';
-import Header from './components/header';
+import Header from './components/Header';
 import { Link } from 'react-router-dom';
 
 function App() {
